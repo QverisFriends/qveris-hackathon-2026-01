@@ -101,5 +101,27 @@ Team members and GitHub handles.
 
 ## 🏷️ Hackathon
 Built for Qveris Hackathon 2026-01
+```
 
+## 🧰 Resources
+
+🌐 Qveris Website: https://qveris.ai
+
+📘 Qveris Documentation: https://qveris.ai/docs
+
+💬 Community: https://github.com/QverisFriends
+
+🔌 plugins：https://qveris.ai/plugins
+
+Starter projects and examples will be added soon.
+
+
+##📬 Contact
+
+Email: contact@qveris.ai
+
+GitHub Organization: QverisFriends
+
+Happy hacking ❤️
+The Qveris Team
 
